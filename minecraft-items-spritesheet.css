@@ -25,7 +25,7 @@
     --n:0.0625 !important;
   }
 
-    .3d {
+    ._3d {
     --n:1; /* scale */
     
     /* coordinates of the image */
@@ -33,7 +33,7 @@
     --j:-29; 
     }
   
-    .??? {
+    .qqq {
     --n:1; /* scale */
     
     /* coordinates of the image */
@@ -1921,7 +1921,7 @@
     --j:-16; 
     }
   
-    .bleach-(filled) {
+    .bleach-filled {
     --n:1; /* scale */
     
     /* coordinates of the image */
@@ -2577,7 +2577,7 @@
     --j:-18; 
     }
   
-    .blue-sparkler-(active) {
+    .blue-sparkler-active {
     --n:1; /* scale */
     
     /* coordinates of the image */
@@ -2769,7 +2769,7 @@
     --j:-26; 
     }
   
-    .bottle-o'-enchanting {
+    .bottle-o-enchanting {
     --n:1; /* scale */
     
     /* coordinates of the image */
@@ -3841,7 +3841,7 @@
     --j:-28; 
     }
   
-    .camera-(old) {
+    .camera-old {
     --n:1; /* scale */
     
     /* coordinates of the image */
@@ -4233,7 +4233,7 @@
     --j:-29; 
     }
   
-    .clay-(ball) {
+    .clay-ball {
     --n:1; /* scale */
     
     /* coordinates of the image */
@@ -4241,7 +4241,7 @@
     --j:-17; 
     }
   
-    .clay-(block) {
+    .clay-block {
     --n:1; /* scale */
     
     /* coordinates of the image */
@@ -6993,7 +6993,7 @@
     --j:-11; 
     }
   
-    .dragon's-breath {
+    .dragons-breath {
     --n:1; /* scale */
     
     /* coordinates of the image */
@@ -9249,7 +9249,7 @@
     --j:-25; 
     }
   
-    .green-sparkler-(active) {
+    .green-sparkler-active {
     --n:1; /* scale */
     
     /* coordinates of the image */
@@ -10337,7 +10337,7 @@
     --j:-15; 
     }
   
-    .jack-o'lantern {
+    .jack-olantern {
     --n:1; /* scale */
     
     /* coordinates of the image */
@@ -10345,7 +10345,7 @@
     --j:-1; 
     }
   
-    .jack-o'lantern-be {
+    .jack-olantern-be {
     --n:1; /* scale */
     
     /* coordinates of the image */
@@ -10849,7 +10849,7 @@
     --j:-25; 
     }
   
-    .lead-(element) {
+    .lead-element {
     --n:1; /* scale */
     
     /* coordinates of the image */
@@ -15121,7 +15121,7 @@
     --j:-22; 
     }
   
-    .nether-wart-(block) {
+    .nether-wart-block {
     --n:1; /* scale */
     
     /* coordinates of the image */
@@ -15561,7 +15561,7 @@
     --j:-6; 
     }
   
-    .observer-pre-1.11-pre1 {
+    .observer-pre-111-pre1 {
     --n:1; /* scale */
     
     /* coordinates of the image */
@@ -16145,7 +16145,7 @@
     --j:-29; 
     }
   
-    .orange-sparkler-(active) {
+    .orange-sparkler-active {
     --n:1; /* scale */
     
     /* coordinates of the image */
@@ -18409,7 +18409,7 @@
     --j:--1; 
     }
   
-    .purple-sparkler-(active) {
+    .purple-sparkler-active {
     --n:1; /* scale */
     
     /* coordinates of the image */
@@ -18601,7 +18601,7 @@
     --j:-11; 
     }
   
-    .rabbit's-foot {
+    .rabbits-foot {
     --n:1; /* scale */
     
     /* coordinates of the image */
@@ -19417,7 +19417,7 @@
     --j:-2; 
     }
   
-    .red-sparkler-(active) {
+    .red-sparkler-active {
     --n:1; /* scale */
     
     /* coordinates of the image */
@@ -22297,7 +22297,7 @@
     --j:-22; 
     }
   
-    .tile.info_update.name {
+    .tileinfo_update.name {
     --n:1; /* scale */
     
     /* coordinates of the image */
@@ -22921,7 +22921,7 @@
     --j:-18; 
     }
   
-    .water-(compound) {
+    .water-compound {
     --n:1; /* scale */
     
     /* coordinates of the image */
