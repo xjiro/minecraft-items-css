@@ -18665,6 +18665,14 @@
     --j:-10; 
     }
   
+    .beef {
+    --n:1; /* scale */
+    
+    /* coordinates of the image */
+    --i:-100; 
+    --j:-12; 
+    }
+  
     .raw-beef {
     --n:1; /* scale */
     
@@ -18673,12 +18681,28 @@
     --j:-12; 
     }
   
+    .chicken {
+    --n:1; /* scale */
+    
+    /* coordinates of the image */
+    --i:-100; 
+    --j:-13; 
+    }
+  
     .raw-chicken {
     --n:1; /* scale */
     
     /* coordinates of the image */
     --i:-100; 
     --j:-13; 
+    }
+  
+    .cod {
+    --n:1; /* scale */
+    
+    /* coordinates of the image */
+    --i:-52; 
+    --j:-28; 
     }
   
     .raw-cod {
@@ -18729,12 +18753,28 @@
     --j:--1; 
     }
   
+    .mutton {
+    --n:1; /* scale */
+    
+    /* coordinates of the image */
+    --i:-100; 
+    --j:-14; 
+    }
+  
     .raw-mutton {
     --n:1; /* scale */
     
     /* coordinates of the image */
     --i:-100; 
     --j:-14; 
+    }
+  
+    .porkchop {
+    --n:1; /* scale */
+    
+    /* coordinates of the image */
+    --i:-100; 
+    --j:-15; 
     }
   
     .raw-porkchop {
@@ -18745,12 +18785,28 @@
     --j:-15; 
     }
   
+    .rabbit {
+    --n:1; /* scale */
+    
+    /* coordinates of the image */
+    --i:-100; 
+    --j:-16; 
+    }
+  
     .raw-rabbit {
     --n:1; /* scale */
     
     /* coordinates of the image */
     --i:-100; 
     --j:-16; 
+    }
+  
+    .salmon {
+    --n:1; /* scale */
+    
+    /* coordinates of the image */
+    --i:-52; 
+    --j:-29; 
     }
   
     .raw-salmon {
