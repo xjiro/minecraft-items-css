@@ -7001,6 +7001,14 @@
     --j:-1; 
     }
   
+    .dragons-breath {
+    --n:1; /* scale */
+    
+    /* coordinates of the image */
+    --i:-98; 
+    --j:-1; 
+    }
+  
     .dried-kelp {
     --n:1; /* scale */
     
@@ -10335,6 +10343,22 @@
     /* coordinates of the image */
     --i:-98; 
     --j:-15; 
+    }
+  
+    .jack-o-lantern {
+    --n:1; /* scale */
+    
+    /* coordinates of the image */
+    --i:-102; 
+    --j:-1; 
+    }
+  
+    .jack-o-lantern-be {
+    --n:1; /* scale */
+    
+    /* coordinates of the image */
+    --i:-6; 
+    --j:-28; 
     }
   
     .jack-olantern {
@@ -18599,6 +18623,14 @@
     /* coordinates of the image */
     --i:-100; 
     --j:-11; 
+    }
+  
+    .rabbits-foot {
+    --n:1; /* scale */
+    
+    /* coordinates of the image */
+    --i:-98; 
+    --j:-7; 
     }
   
     .rabbits-foot {
