@@ -975,6 +975,7 @@ items['Exposed Cut Copper Block'] = {pos: 412, section: 12};
 items['Exposed Cut Copper Slab'] = {pos: 413, section: 12};
 items['Exposed Cut Copper Stairs'] = {pos: 414, section: 12};
 items['Eye Drops'] = {pos: 1752, section: 33};
+items['Ender Eye'] = {pos: 3565, section: 25};
 items['Eye of Ender'] = {pos: 3565, section: 25};
 items['Fancy Feather'] = {pos: 384, section: 38};
 items['Farmland'] = {pos: 886, section: 12};

@@ -7457,6 +7457,14 @@
     --j:-23; 
     }
   
+    .ender-eye {
+    --n:1; /* scale */
+    
+    /* coordinates of the image */
+    --i:-111; 
+    --j:-12; 
+    }
+  
     .eye-of-ender {
     --n:1; /* scale */
     
